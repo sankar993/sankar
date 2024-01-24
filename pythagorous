@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() {
+    double a=5,b=2,c;
+c=sqrt(a*a+b*b);
+    printf("the length of hyotenuse is %.2lf\n",c);
+  return 0;
+}
